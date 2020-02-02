@@ -1,1 +1,6 @@
+
 Primer documento de texto para probar
+
+tercera modificacion
+del archivo para ver si el git esta registrando los cambios 
+
